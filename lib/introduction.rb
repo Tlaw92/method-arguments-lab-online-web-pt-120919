@@ -1,7 +1,7 @@
 
 
 
-introduction_with_language("Ben", "ruby")
+
 
 #def introduction_with_language(name,language)
   #puts "Hello #{name}, we heard you are an amazing #{language} programmer!"
